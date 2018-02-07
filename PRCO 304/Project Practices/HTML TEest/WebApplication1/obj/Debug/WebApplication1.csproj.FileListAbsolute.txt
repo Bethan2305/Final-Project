@@ -1,0 +1,6 @@
+C:\Users\Bethan\Documents\Uni\Stage 4\PRCO 304\Project Practices\HTML TEest\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Bethan\Documents\Uni\Stage 4\PRCO 304\Project Practices\HTML TEest\WebApplication1\bin\WebApplication1.dll
+C:\Users\Bethan\Documents\Uni\Stage 4\PRCO 304\Project Practices\HTML TEest\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Bethan\Documents\Uni\Stage 4\PRCO 304\Project Practices\HTML TEest\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Bethan\Documents\Uni\Stage 4\PRCO 304\Project Practices\HTML TEest\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Bethan\Documents\Uni\Stage 4\PRCO 304\Project Practices\HTML TEest\WebApplication1\obj\Debug\WebApplication1.pdb
